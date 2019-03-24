@@ -23,6 +23,7 @@
  Setup Wi-Fi:
   * Enter SECRET_SSID in "secrets.h"
   * Enter SECRET_PASS in "secrets.h"
+  * "secrets.h" must be in the same folder as this file.
   
  Tutorial: http://nothans.com/measure-wi-fi-signal-levels-with-the-esp8266-and-thingspeak
    
